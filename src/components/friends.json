@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Bubbles",
+    "image": "https://i.pinimg.com/originals/1f/cb/46/1fcb46a2d59c26d77b872b3b3eaf9b37.png",
+    "clicked": "false"
+  },
+
+  {
+    "id": 2,
+    "name": "Blossom",
+    "image": "https://m.media-amazon.com/images/I/41T5FNqAYHL._AC_SY355_.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 3,
+    "name": "Buttercup",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11/111746/5814390-powerpuffgirls-buttercup_large.png",
+    "clicked": "false"
+  },
+  {
+    "id": 4,
+    "name": "Big Billy",
+    "image": "https://vignette.wikia.nocookie.net/blossom/images/f/fe/BigBilly.png/revision/latest/top-crop/width/220/height/220?cb=20140703171732.png",
+    "clicked": "false"
+  },
+  
+  {
+    "id": 5,
+    "name": "Him",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrMGq4p23qNMQNJSQJK3lnxb_I_knhYO-JoA&usqp=CAU.png",
+    "clicked": "false"
+   
+  },
+  {
+    "id": 6,
+    "name": "Lil Arturo",
+    "image": "https://i.pinimg.com/236x/24/b6/a9/24b6a9958d3c45e20ece588dac315dc4.jpg",
+    "clicked": "false"
+
+  },
+  {
+    "id": 7,
+    "name": "Mayor",
+    "image": "https://i.pinimg.com/originals/79/37/71/793771492eaf60610d683cbd4827468a.jpg",
+    "clicked": "false"
+ 
+  },
+  {
+    "id": 8,
+    "name": "Mitch Mitchelson",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9f38131-bc2f-43f7-80cc-3be03197b835/d8x00sy-de03e4ea-cc96-4de0-943e-1323ff14c449.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYjlmMzgxMzEtYmMyZi00M2Y3LTgwY2MtM2JlMDMxOTdiODM1XC9kOHgwMHN5LWRlMDNlNGVhLWNjOTYtNGRlMC05NDNlLTEzMjNmZjE0YzQ0OS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.k37ufkYJTjf2cJ9TEC1pVAtE4R_EVW8-B9BNgZE81hQ",
+    "clicked": "false"
+  
+  },
+  {
+    "id": 9,
+    "name": "Mojo Jogo",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/416p8XufcKL._AC_SY355_.jpg",
+    "clicked": "false"
+
+  },
+  {
+    "id": 10,
+    "name": "Princess Morbucks",
+    "image": "https://www.clipartmax.com/png/middle/75-752467_powerpuff-girls-princess-snorebucks-download-powerpuff-girls-princess-morbucks.png",
+    "clicked": "false"
+
+  },
+  {
+    "id": 11,
+    "name": "Professor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31l0YuVcwSL._AC_SY355_.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 12,
+    "name": "Sara",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMKoSDkATwwOPm3JdsNmTxohm9vw1DYgNkiw&usqp=CAU",
+    "clicked": "false"
+  }
+]

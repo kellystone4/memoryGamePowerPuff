@@ -1,0 +1,17 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  letter-spacing: 2px;
+  color: black;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+.score {
+  width: 100%;
+  text-align: right;
+  font-size: 35px;
+  color: #2A77AE;
+  letter-spacing: 1px;
+}
