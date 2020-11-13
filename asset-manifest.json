@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memoryGamePowerPuff/static/css/main.f98ebada.chunk.css",
+    "main.js": "/memoryGamePowerPuff/static/js/main.fc97ce62.chunk.js",
+    "main.js.map": "/memoryGamePowerPuff/static/js/main.fc97ce62.chunk.js.map",
+    "runtime-main.js": "/memoryGamePowerPuff/static/js/runtime-main.c3602a5c.js",
+    "runtime-main.js.map": "/memoryGamePowerPuff/static/js/runtime-main.c3602a5c.js.map",
+    "static/js/2.a6f84f69.chunk.js": "/memoryGamePowerPuff/static/js/2.a6f84f69.chunk.js",
+    "static/js/2.a6f84f69.chunk.js.map": "/memoryGamePowerPuff/static/js/2.a6f84f69.chunk.js.map",
+    "index.html": "/memoryGamePowerPuff/index.html",
+    "static/css/main.f98ebada.chunk.css.map": "/memoryGamePowerPuff/static/css/main.f98ebada.chunk.css.map",
+    "static/js/2.a6f84f69.chunk.js.LICENSE.txt": "/memoryGamePowerPuff/static/js/2.a6f84f69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3602a5c.js",
+    "static/js/2.a6f84f69.chunk.js",
+    "static/css/main.f98ebada.chunk.css",
+    "static/js/main.fc97ce62.chunk.js"
+  ]
+}
