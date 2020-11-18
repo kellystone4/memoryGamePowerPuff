@@ -76,4 +76,4 @@ Within this project, I included:
 <br>
 
 ## Deployed Link:
-- [Link to Memory Game](https://kellystone4.github.io/memoryGame/)
+- [Link to Memory Game](https://kellystone4.github.io/memoryGamePowerPuff/)
