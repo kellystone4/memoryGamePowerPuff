@@ -16,20 +16,19 @@ class App extends Component {
   handleClick = (friend_id) => {
 
     if (this.state.friendsFound.includes(friend_id)) {
-      this.state.score = 0;
-      this.state.friendsFound = [];
+      this.setState({score:0});
+      this.setState({friendsFound: []});
       alert("Game over!");
   
     }
     else {
-      this.setState({ ...this.state, score: this.state.score ++, friendsFound: [...this.state.friendsFound, friend_id] });
-      this.state.friendsFound.push(friend_id);
+      this.setState({score: this.state.score +1, friendsFound: [...this.state.friendsFound, friend_id] });
       console.log(this.state.friendsFound);
     }
     // Filter this.state.friends for friends with an id not equal to the id being removed
     let friends = this.state.friends.sort(() => Math.random() - .5);
     // Set this.state.friends equal to the new friends array
-    this.setState({ ...this.state, friends: friends });
+    this.setState({friends: friends });
     console.log(this.state.score)
   };
 
